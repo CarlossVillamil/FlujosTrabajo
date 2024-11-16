@@ -4,3 +4,6 @@ document.getElementById('actionButton').addEventListener('click', function () {
     messageElement.style.color = '#007BFF';
     
 });
+window.addEventListener('load', function () {
+    alert('¡Bienvenido a la página!');
+});
